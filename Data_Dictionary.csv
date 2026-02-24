@@ -1,0 +1,59 @@
+Column_Name,Original_CMIE_Code,Full_Description
+HOUSEHOLD_ID,HH_ID,Household identity number
+STATE,STATE,State name
+DISTRICT,DISTRICT,District name
+REGION_TYPE,REGION_TYPE,Type of region
+TOTAL_MONTHLY_INCOME,TOT_INC,Total income
+INCOME_WAGES_BONUS,INC_OF_ALL_MEMS_FRM_WAGES,"Monthly income of all members from wages, overtime and bonus"
+INCOME_BUSINESS_PROFIT,INC_OF_HH_FRM_BIZ_PROFIT,Monthly income of household from business profit
+EXP_GHEE,M_EXP_GHEE,Monthly household expenditure on ghee
+EXP_MITHAI_SWEETS,M_EXP_MITHAI,Monthly household expenditure on mithai
+EXP_SUGAR_SWEETENERS,M_EXP_SUGAR_N_OTH_SWEETENERS,"Monthly household expenditure on sweeteners, sugar, gur, etc"
+EXP_MILK_PRODUCTS,M_EXP_MILK_N_MILK_PRDS,Monthly household expenditure on milk and milk products
+EXP_DRY_SPICES,M_EXP_DRY_SPICES,Monthly household expenditure on dry spices
+EXP_FLAKES_MUESLI_OATS,M_EXP_FLAKES_MUESLI_N_OATS,"Monthly household expenditure flakes, muesli and oats"
+EXP_HEALTH_SUPPLEMENTS,M_EXP_HEALTH_SUPPLEMENTS,Monthly household expenditure on health supplements
+EXP_BEVERAGES_SOFTDRINKS,M_EXP_BEVERAGES,"Monthly household expenditure on beverages, softdrinks, juices, etc."
+EXP_NOODLES_PASTA,M_EXP_NOODLES_N_PASTA,Monthly household expenditure on noodles and pasta
+EXP_CHOCOLATES_CAKES,M_EXP_CHOCLATES_N_CAKES,Monthly household expenditure on chocolates and cakes
+EXP_BOTTLED_WATER,M_EXP_BOTTLED_WATER,Monthly household expenditure on bottled water
+EXP_READY_TO_EAT,M_EXP_READY_TO_EAT_FOOD,Monthly household expenditure on ready-to-eat food
+EXP_OTT_STREAMING,M_EXP_OTT,Monthly expense on OTT
+EXP_CABLE_TV,M_EXP_CABLE_TV,Monthly household expenditure on cable tv
+EXP_INTERNET_LANDLINE,M_EXP_INTERNET_N_LANDLINE,Monthly expense for internet and Landline
+EXP_MOBILE_PHONE,M_EXP_CELL_PHONE,Monthly household expenditure on cell phone
+EXP_RESTAURANTS,M_EXP_RESTAURANTS,Monthly household expenditure on restaurants
+EXP_OLA_UBER_RAPIDO,M_EXP_OLA_UBER_RAPIDO,Monthly expense on Ola/Uber/Rapido/etc
+EXP_FOOD_IN_RESTAURANTS,M_EXP_FOOD_IN_RESTAURANTS,Monthly household expenditure on food in restaurants
+EXP_SCHOOL_COLLEGE_FEES,M_EXP_SCHOOL_COLLEGE_FEES,Monthly household expenditure on school and/or college fees
+EXP_PRIVATE_TUITION,M_EXP_PVT_TUITION_FEES,Monthly household expenditure on private tuition fees
+EXP_EDUCATION_TOTAL,M_EXP_EDU,Monthly household expenditure on education
+EXP_MEDICINES,M_EXP_MEDICINES,Monthly household expenditure on medicines
+EXP_GYM_FITNESS,M_EXP_FITNESS,Monthly household expenditure on fitness services
+EXP_HEALTH_INSURANCE_PREMIUM,M_EXP_HEALTH_INS_PREMIUM,Monthly household expenditure on premium for health insurance
+EXP_PETROL_DIESEL,M_EXP_PETROL_N_DIESEL,Monthly household expenditure on petrol and diesel
+EXP_TRANSPORT_TOTAL,M_EXP_TRANSPORT,Monthly household expenditure on transport
+EXP_HOUSE_RENT,M_EXP_HOUSE_RENT,Monthly household expenditure on house rent
+EXP_ELECTRICITY,M_EXP_ELECTRICITY,Monthly household expenditure on electricity
+EXP_ALL_LOAN_EMIS,M_EXP_ALL_EMIS,Monthly household expenditure on all emis
+NUM_TRACTORS_OWNED,TRACTORS_OWNED,Number of tractors owned by household
+NUM_CARS_OWNED,CARS_OWNED,Number of motor cars owned by household
+NUM_TWO_WHEELERS_OWNED,TWO_WHEELERS_OWNED,Number of two wheelers owned by the household
+NUM_ACS_OWNED,ACS_OWNED,Number of air-conditioners owned by household
+NUM_REFRIGERATORS_OWNED,REFRIGERATORS_OWNED,Number of refrigerators owned by household
+NUM_TVS_OWNED,TVS_OWNED,Number of television sets owned by household
+NUM_COMPUTERS_OWNED,COMPUTERS_OWNED,Number of computer systems owned by household
+NUM_WASHING_MACHINES_OWNED,WASHING_MACHINES_OWNED,Number of washing machines owned by household
+NUM_HOUSES_OWNED,HOUSES_OWNED,Number of housing units owned by household
+FAMILY_SIZE,FAMILY_SIZE,Number of members in the household
+MAX_FAMILY_EDUCATION,MAX_FAMILY_EDUCATION,Highest education level among all household members
+AVERAGE_FAMILY_AGE,AVERAGE_FAMILY_AGE,Average age of all household members in years
+HAS_MEMBER_AGE_18_25,HAS_MEMBER_AGE_18_25,"Whether household has any member aged 18-25 years (1=Yes, 0=No)"
+HAS_MEMBER_ON_SUPPLEMENTS,HAS_MEMBER_ON_SUPPLEMENTS,"Whether any member takes health supplements (1=Yes, 0=No)"
+HAS_MEMBER_WITH_MOBILE,HAS_MEMBER_WITH_MOBILE,"Whether any member owns a mobile phone (1=Yes, 0=No)"
+HAS_MEMBER_WITH_BANK_AC,HAS_MEMBER_WITH_BANK_AC,"Whether any member has a bank account (1=Yes, 0=No)"
+HAS_MEMBER_WITH_HEALTH_INS,HAS_MEMBER_WITH_HEALTH_INS,"Whether any member has health insurance (1=Yes, 0=No)"
+TOTAL_MONTHLY_EXPENDITURE,TOT_EXP,Total monthly household expenditure
+EXP_FOOD_TOTAL,M_EXP_FOOD,Monthly household expenditure on food
+EXP_CIGARETTES_TOBACCO,M_EXP_CIGARETTES_N_TOBACCO,Monthly household expenditure on cigarettes and tobacco
+EXP_LIQUOR_ALCOHOL,M_EXP_LIQUOR,Monthly household expenditure on liquor
